@@ -26,6 +26,7 @@
     "@types/react": "^19.1",
     "eslint": "^9.28",
     "prettier": "^3.5",
+    "serve": "^14.2.5",
     "typescript": "^5.8"
   },
   "prettier": {
